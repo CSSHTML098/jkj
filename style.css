@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media screen (max-width: 1200px;) {
+ 
+}
+.promo img{
+    max-width: 400px;
+    max-height: 300px;
+    margin: auto;
+}
+.foto img{
+    width: 100%;
+    height: 150px;
+
+}
+a{
+    text-decoration: none;
+}
+button{
+    border-radius: 50px;
+    width: 100px;
+    height: 40px;
+}
+.box{
+
+    padding: 20px;
+    height: 100%;
+    text-align: center;
+
+}
+.header{
+    min-height: 90px;
+    margin-bottom: 20px;
+}
+.promo{
+    min-height: 460px;
+    margin-bottom: 20px;
+}
+.fonts{
+    min-height: 90px;
+    margin-bottom: 20px;
+}
+.iatem{
+    min-height: 300px;
+    margin-bottom:20px ;
+}
+.foto{
+    min-height: 250px;
+    margin-bottom: 20px;
+}
+.footer{
+    min-height: 300px;
+}
